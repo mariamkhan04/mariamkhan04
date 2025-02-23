@@ -26,7 +26,7 @@ For me, coding isn't just about writing lines of code—it's about solving real-
 <a href="https://github.com/mariamkhan04"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEJOLvmB_jgIRwoTlBewFuAkjpttBAqOLdw&s" alt="mariamkhan04" height="30" width="40"></a>
 </p>
 
-## Languages and Tools:
+## Technologies and Tools:
 
 <p align="left">
   <h3 style="display:inline;">Programming Languages: </h3>
