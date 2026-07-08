@@ -13,7 +13,6 @@ Currently, I'm focused on strengthening my expertise in:
 - ETL Workflows
 - Data Engineering Concepts
 - Business Intelligence
-- Python Automation
 
 ---
 
@@ -70,20 +69,19 @@ https://github.com/mariamkhan04/Telco-Customer-Churn---EDA-and-ML
 - Streamlit
 
 ### Tools
-- Git
-- GitHub
+- Git & GitHub
 - GitHub Actions
 - Hopsworks
-
+- vs code
+- jupyter notebook
+- postgreSQL
 ---
 
-## Currently Learning
+## Currently Seeking junior/entry-level roles in
 
-- Advanced SQL
-- Query Optimization
-- Data Warehousing
-- Data Engineering Fundamentals
-- Pipeline Design
+- Data Analytics
+- Data Engineering
+- Business Intelligence
 
 ---
 
@@ -96,3 +94,6 @@ https://linkedin.com/in/mariam-khan0424
 
 🐙 GitHub:
 https://github.com/mariamkhan04
+
+Medium:
+https://medium.com/@khanmariam684
