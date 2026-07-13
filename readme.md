@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a Computer Science graduate from UBIT, University of Karachi (CGPA: 3.65) with hands-on experience in Data Analytics, SQL, ETL workflows, Dashboard Development, and Machine Learning projects.
+I'm a Computer Science graduate from UBIT, University of Karachi with hands-on experience in Data Analytics, SQL, ETL workflows, Dashboard Development, and Machine Learning projects.
 
 My experience spans working with real-world datasets, building analytical reports, validating KPIs, developing dashboards, and creating end-to-end machine learning pipelines. I enjoy transforming raw data into meaningful insights and continuously improving my skills in SQL, Python, Data Engineering, and Business Intelligence.
 
