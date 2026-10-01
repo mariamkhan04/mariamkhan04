@@ -1,99 +1,39 @@
 <h1 align="center">Hi 👋, I'm Mariam Khan</h1>
-<h3 align="center">Data Analytics & Data Engineering Enthusiast</h3>
+<h3 align="center">On my journey to becoming a Data Professional.</h3>
 
 ## About Me
 
-I'm a Computer Science graduate from UBIT, University of Karachi with hands-on experience in Data Analytics, SQL, ETL workflows, Dashboard Development, and Machine Learning projects.
+Computer Science graduate from UBIT, University of Karachi, with hands-on experience in SQL, data warehousing, ETL workflows, dashboard development, and end-to-end machine learning pipelines. I enjoy turning raw data into clear, decision-ready insights.
 
-My experience spans working with real-world datasets, building analytical reports, validating KPIs, developing dashboards, and creating end-to-end machine learning pipelines. I enjoy transforming raw data into meaningful insights and continuously improving my skills in SQL, Python, Data Engineering, and Business Intelligence.
-
-Currently, I'm focused on strengthening my expertise in:
-- SQL & Database Systems
-- Data Analytics & Reporting
-- ETL Workflows
-- Data Engineering Concepts
-- Business Intelligence
+**Currently seeking junior/entry-level roles in:** Data Analytics · Data Engineering · Business Intelligence
 
 ---
 
 ## Featured Projects
 
-### Karachi AQI Prediction Bot
-End-to-end Machine Learning pipeline forecasting Karachi Air Quality Index for the next 72 hours.
+### [VeloWarehouse: Enterprise Sales Data Warehouse & Analytics](https://github.com/mariamkhan04/VeloWarehouse-Enterprise-Sales-Warehouse-And-Analytics-Project)
+End-to-end PostgreSQL data warehouse (medallion architecture, star schema) with SQL analytics and an interactive 3-page Excel dashboard. **Finding:** Bikes drive 96% of the $29.35M revenue from only 25% of units, and 8.8% of customers (VIP) generate ~36% of revenue.
+`PostgreSQL` `PL/pgSQL` `Star Schema` `Power Query` `Power Pivot` `DAX`
 
-**Tech Stack:**
-Python, XGBoost, Hopsworks, Streamlit, GitHub Actions, CI/CD
+### [Telco Customer Churn Analysis](https://github.com/mariamkhan04/Telco-Customer-Churn-Analysis-SQL-Data-Studio)
+35 SQL queries and a two-page Looker Studio dashboard on 7,043 customers. **Finding:** 26.54% churn costs $2.86M in revenue, and month-to-month customers churn at 42.71%, nearly 15x the rate of two-year contracts.
+`PostgreSQL` `Looker Studio` `Data Cleaning` `Churn Analysis`
 
-🔗 Repository:
-https://github.com/mariamkhan04/AQI-Prediction-Bot
-
----
-
-### Telco Customer Churn Prediction
-
-Machine Learning project focused on identifying customer churn patterns and improving prediction performance.
-
-**Tech Stack:**
-Python, Pandas, Scikit-Learn, SMOTE, Logistic Regression, Random Forest
-
-🔗 Repository:
-https://github.com/mariamkhan04/Telco-Customer-Churn---EDA-and-ML
+### [Karachi AQI Prediction Bot](https://github.com/mariamkhan04/AQI-Prediction-Bot)
+End-to-end ML pipeline forecasting Karachi's Air Quality Index for the next 72 hours, with automated CI/CD retraining and a live Streamlit dashboard.
+`Python` `XGBoost` `Hopsworks` `Streamlit` `GitHub Actions` `CI/CD`
 
 ---
 
 ## Skills
 
-### Data Analytics & BI
-- SQL
-- BigQuery
-- Looker Studio
-- Data Visualization
-- KPI Analysis
-- Data Storytelling
-
-### Data Engineering
-- ETL Concepts
-- Databases
-- Data Validation
-- Data Quality Checks
-- CI/CD Concepts
-
-### Python Ecosystem
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- FastAPI
-- Streamlit
-
-### Tools
-- Git & GitHub
-- GitHub Actions
-- Hopsworks
-- vs code
-- jupyter notebook
-- postgreSQL
----
-
-## Currently Seeking junior/entry-level roles in
-
-- Data Analytics
-- Data Engineering
-- Business Intelligence
+- **Analytics & BI:** SQL, BigQuery, Looker Studio, Excel (Power Query, Power Pivot, DAX), KPI Analysis, Data Storytelling
+- **Data Engineering:** PostgreSQL, ETL, Data Warehousing (Star Schema, Medallion), Data Validation, CI/CD
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, FastAPI, Streamlit
+- **Tools:** Git & GitHub, GitHub Actions, Hopsworks, VS Code, Jupyter Notebook
 
 ---
 
-## Connect With Me
+## Connect
 
-📧 Email: khanmariam684@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/mariam-khan0424
-
-🐙 GitHub:
-https://github.com/mariamkhan04
-
-Medium:
-https://medium.com/@khanmariam684
+📧 khanmariam684@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/mariam-khan0424) · ✍️ [Medium](https://medium.com/@khanmariam684)
